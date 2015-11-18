@@ -2,6 +2,8 @@ info:
   description: Spring Cloud Samples
   url: https://github.com/spring-cloud-samples
 
+server:
+  port: 8081
 ---
 spring:
   profiles: cloud
